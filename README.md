@@ -1,7 +1,7 @@
 
 # Confounder Free neural networks
 
-Code for the first attempt at implimenting confounder free neural networks
+Code for the first attempt at implementing confounder free neural networks
 
 ## Directories
 
