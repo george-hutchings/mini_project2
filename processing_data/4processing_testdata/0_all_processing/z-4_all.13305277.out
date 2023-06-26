@@ -1,0 +1,181 @@
+torch version 1.6.0
+seed 999
+CUDA is available. Running on GPU
+batch_size = 1024
+Processing train val ........................................
+number of training subjects
+5000
+Shape of image names (142525,)
+# unique img_names 5000
+Image names 
+ [['CBAF312A2304x1004002' 'ses-EOSx20151228']
+ ['CBAF312A2304x1004002' 'ses-EOSx20151228']
+ ['CBAF312A2304x1004002' 'ses-EOSx20151228']
+ ['CBAF312A2304x1004002' 'ses-EOSx20151228']
+ ['CBAF312A2304x1004002' 'ses-EOSx20151228']]
+img names split shape (142525, 2)
+img names split [:,0] ['CBAF312A2304_1004002' 'CBAF312A2304_1004002' 'CBAF312A2304_1004002' ...
+ 'COMB157G2302_RAND_zO5V9sRgUsfL' 'COMB157G2302_RAND_zO5V9sRgUsfL'
+ 'COMB157G2302_RAND_zO5V9sRgUsfL']
+counts 1    131402
+0     10876
+2       247
+dtype: int64
+new median [0. 0. 0.]
+mad std [1. 1. 1.]
+confounders [[ 6.67460955  0.20301665 -0.11989286]
+ [ 6.67460955  0.20301665 -0.11989286]
+ [ 6.67460955  0.20301665 -0.11989286]
+ [ 6.67460955  0.20301665 -0.11989286]
+ [ 6.67460955  0.20301665 -0.11989286]]
+Total cf length 142525
+# nan 131372
+cf_idx[:50] [ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True  True  True  True  True  True  True  True  True  True  True
+  True  True  True  True  True  True  True  True  True  True  True  True
+  True  True  True  True  True  True  True  True  True  True  True  True
+  True  True]
+cf shape before (142525, 3)
+cf shape after (131372, 3)
+cf_full [[ 6.67460955  0.20301665 -0.11989286]
+ [ 6.67460955  0.20301665 -0.11989286]
+ [ 6.67460955  0.20301665 -0.11989286]
+ [ 6.67460955  0.20301665 -0.11989286]
+ [ 6.67460955  0.20301665 -0.11989286]]
+cf_cf [[ 6.67460955  0.20301665 -0.11989286]
+ [ 6.67460955  0.20301665 -0.11989286]
+ [ 6.67460955  0.20301665 -0.11989286]
+ [ 6.67460955  0.20301665 -0.11989286]
+ [ 6.67460955  0.20301665 -0.11989286]]
+mask shape before (142525, 192, 160, 1)
+mask shape after (131372, 192, 160, 1)
+train shape before (142525, 192, 160, 4)
+train shape after (131372, 192, 160, 4)
+n_batches for val train  = 129
+Processing seentest val ........................................
+number of training subjects
+5218
+Shape of image names (147893,)
+# unique img_names 5218
+Image names 
+ [['CBAF312A2304x1004001' 'ses-EOSx20160315']
+ ['CBAF312A2304x1004001' 'ses-EOSx20160315']
+ ['CBAF312A2304x1004001' 'ses-EOSx20160315']
+ ['CBAF312A2304x1004001' 'ses-EOSx20160315']
+ ['CBAF312A2304x1004001' 'ses-EOSx20160315']]
+img names split shape (147893, 2)
+img names split [:,0] ['CBAF312A2304_1004001' 'CBAF312A2304_1004001' 'CBAF312A2304_1004001' ...
+ 'COMB157G2302_RAND_zkTtWUyKdfnk' 'COMB157G2302_RAND_zkTtWUyKdfnk'
+ 'COMB157G2302_RAND_zkTtWUyKdfnk']
+counts 1    136961
+0     10848
+2        84
+dtype: int64
+new median [0. 0. 0.]
+mad std [1. 1. 1.]
+confounders [[nan nan nan]
+ [nan nan nan]
+ [nan nan nan]
+ [nan nan nan]
+ [nan nan nan]]
+Total cf length 147893
+# nan 136961
+cf_idx[:50] [False False False False False False False False False False False False
+ False False False False False False False False False False False False
+ False False  True  True  True  True  True  True  True  True  True  True
+  True  True  True  True  True  True  True  True  True  True  True  True
+  True  True]
+cf shape before (147893, 3)
+cf shape after (136961, 3)
+cf_full [[nan nan nan]
+ [nan nan nan]
+ [nan nan nan]
+ [nan nan nan]
+ [nan nan nan]]
+cf_cf [[11.25719385  1.981466    0.87826218]
+ [11.25719385  1.981466    0.87826218]
+ [11.25719385  1.981466    0.87826218]
+ [11.25719385  1.981466    0.87826218]
+ [11.25719385  1.981466    0.87826218]]
+mask shape before (147893, 192, 160, 1)
+mask shape after (136961, 192, 160, 1)
+train shape before (147893, 192, 160, 4)
+train shape after (136961, 192, 160, 4)
+n_batches for val seentest  = 134
+Processing test val ........................................
+number of training subjects
+885
+Shape of image names (20953,)
+# unique img_names 885
+Image names 
+ [['CFTY720D2301x0101x00002' 'ses-V1x20060526']
+ ['CFTY720D2301x0101x00002' 'ses-V1x20060526']
+ ['CFTY720D2301x0101x00002' 'ses-V1x20060526']
+ ['CFTY720D2301x0101x00002' 'ses-V1x20060526']
+ ['CFTY720D2301x0101x00002' 'ses-V1x20060526']]
+img names split shape (20953, 2)
+img names split [:,0] ['CFTY720D2301_0101_00002' 'CFTY720D2301_0101_00002'
+ 'CFTY720D2301_0101_00002' ... 'CFTY720D2309_0901_00009'
+ 'CFTY720D2309_0901_00009' 'CFTY720D2309_0901_00009']
+counts 1    19135
+0     1818
+dtype: int64
+new median [0. 0. 0.]
+mad std [1. 1. 1.]
+confounders [[ 0.93239813 -6.52053342 -0.63291774]
+ [ 0.93239813 -6.52053342 -0.63291774]
+ [ 0.93239813 -6.52053342 -0.63291774]
+ [ 0.93239813 -6.52053342 -0.63291774]
+ [ 0.93239813 -6.52053342 -0.63291774]]
+Total cf length 20953
+# nan 19067
+cf_idx[:50] [ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True  True  True  True  True  True False False False False False
+ False False False False False False False False False False False False
+  True  True  True  True  True  True  True  True  True  True  True  True
+  True  True]
+cf shape before (20953, 3)
+cf shape after (19067, 3)
+cf_full [[ 0.93239813 -6.52053342 -0.63291774]
+ [ 0.93239813 -6.52053342 -0.63291774]
+ [ 0.93239813 -6.52053342 -0.63291774]
+ [ 0.93239813 -6.52053342 -0.63291774]
+ [ 0.93239813 -6.52053342 -0.63291774]]
+cf_cf [[ 0.93239813 -6.52053342 -0.63291774]
+ [ 0.93239813 -6.52053342 -0.63291774]
+ [ 0.93239813 -6.52053342 -0.63291774]
+ [ 0.93239813 -6.52053342 -0.63291774]
+ [ 0.93239813 -6.52053342 -0.63291774]]
+mask shape before (20953, 192, 160, 1)
+mask shape after (19067, 192, 160, 1)
+train shape before (20953, 192, 160, 4)
+train shape after (19067, 192, 160, 4)
+n_batches for val test  = 19
+no. samples left, y1cf 13909   89 %
+no. samples left, y2cf 15457   88 %
+no. samples left, y3cf 1732   90 %
+no. samples left, y1vanilla 14100   89 %
+no. samples left, y2vanilla 15341   88 %
+no. samples left, y3vanilla 1727   90 %
+y1cf mean 0.010604167341251303 y2cf mean 0.007159823792353838 y3cf mean 0.015335999312501444
+UMAP10C_COMP1 FG
+UMAP10C_COMP2 FG
+UMAP10C_COMP3 FG
+no. samples left, y1cf 3679   97 %
+no. samples left, y2cf 4020   97 %
+no. samples left, y3cf 459   97 %
+no. samples left, y1vanilla 2907   97 %
+no. samples left, y2vanilla 3005   97 %
+no. samples left, y3vanilla 494   97 %
+y1cf mean -21.49644696961288 y2cf mean -21.426006598604626 y3cf mean -19.660185623148443
+UMAP10C_COMP1 BG
+UMAP10C_COMP2 BG
+UMAP10C_COMP3 BG
+Correlation df printing
+     model      component  correlation
+0  vanilla  UMAP10C_COMP1     0.026241
+1       cf  UMAP10C_COMP1     0.008504
+2  vanilla  UMAP10C_COMP2    -0.040682
+3       cf  UMAP10C_COMP2    -0.031199
+4  vanilla  UMAP10C_COMP3    -0.054369
+5       cf  UMAP10C_COMP3    -0.100117

@@ -1,0 +1,30 @@
+======================================== img_names ========================================
+Shape of image names (142525,)
+# unique img_names 5000
+Image names 
+ [['CBAF312A2304x1004002' 'ses-EOSx20151228']
+ ['CBAF312A2304x1004002' 'ses-EOSx20151228']
+ ['CBAF312A2304x1004002' 'ses-EOSx20151228']
+ ['CBAF312A2304x1004002' 'ses-EOSx20151228']
+ ['CBAF312A2304x1004002' 'ses-EOSx20151228']]
+after replacing x with _
+Table 0    CBAF312A2304_1004002
+1    CBAF312A2304_1004002
+2    CBAF312A2304_1004004
+3    CBAF312A2304_1004004
+4    CBAF312A2304_1004004
+Name: USUBJID, dtype: object
+img names split shape (142525, 2)
+img names split [:,0] ['CBAF312A2304_1004002' 'CBAF312A2304_1004002' 'CBAF312A2304_1004002' ...
+ 'COMB157G2302_RAND_zO5V9sRgUsfL' 'COMB157G2302_RAND_zO5V9sRgUsfL'
+ 'COMB157G2302_RAND_zO5V9sRgUsfL']
+counts 1    131649
+0     10876
+dtype: int64
+new median [0. 0. 0.]
+mad std [1. 1. 1.]
+confounders [[-0.36083215  0.72028611  4.07888406]
+ [-0.36083215  0.72028611  4.07888406]
+ [-0.36083215  0.72028611  4.07888406]
+ [-0.36083215  0.72028611  4.07888406]
+ [-0.36083215  0.72028611  4.07888406]]

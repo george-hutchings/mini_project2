@@ -1,0 +1,10 @@
+============================================================
+number of training subjects
+5000
+finalgenerate AXI
+lesion mask
+(142525, 192, 160, 1)
+all mod
+(142525, 192, 160, 4)
+All names equal?
+True

@@ -1,0 +1,137 @@
+Lmod Warning: MODULEPATH directory: "/apps/eb/modules/all" has too many
+non-modulefiles (185). Please make sure that modulefiles are in their own
+directory and not mixed in with non-modulefiles (e.g. source code)
+
+
+
+Lmod Warning: MODULEPATH directory: "/apps/eb/modules/all" has too many
+non-modulefiles (185). Please make sure that modulefiles are in their own
+directory and not mixed in with non-modulefiles (e.g. source code)
+
+
+
+Lmod Warning: MODULEPATH directory: "/apps/eb/modules/all" has too many
+non-modulefiles (185). Please make sure that modulefiles are in their own
+directory and not mixed in with non-modulefiles (e.g. source code)
+
+
+
+
+The following have been reloaded with a version change:
+  1) FFTW/3.3.8-gompic-2019b => FFTW/3.3.8-gompi-2019b
+  2) HDF5/1.10.5-gompic-2019b => HDF5/1.10.5-gompi-2019b
+  3) OpenMPI/3.1.4-gcccuda-2019b => OpenMPI/3.1.4-GCC-8.3.0
+  4) ScaLAPACK/2.0.2-gompic-2019b => ScaLAPACK/2.0.2-gompi-2019b
+  5) SciPy-bundle/2019.10-fosscuda-2019b-Python-3.7.4 => SciPy-bundle/2019.10-foss-2019b-Python-3.7.4
+
+Lmod Warning: MODULEPATH directory: "/apps/eb/modules/all" has too many
+non-modulefiles (185). Please make sure that modulefiles are in their own
+directory and not mixed in with non-modulefiles (e.g. source code)
+
+
+
+
+The following have been reloaded with a version change:
+  1) SciPy-bundle/2019.10-foss-2019b-Python-3.7.4 => SciPy-bundle/2019.10-fosscuda-2019b-Python-3.7.4
+
+Lmod Warning: MODULEPATH directory: "/apps/eb/modules/all" has too many
+non-modulefiles (185). Please make sure that modulefiles are in their own
+directory and not mixed in with non-modulefiles (e.g. source code)
+
+
+
+Lmod Warning: MODULEPATH directory: "/apps/eb/modules/all" has too many
+non-modulefiles (185). Please make sure that modulefiles are in their own
+directory and not mixed in with non-modulefiles (e.g. source code)
+
+
+
+Lmod Warning: MODULEPATH directory: "/apps/eb/modules/all" has too many
+non-modulefiles (185). Please make sure that modulefiles are in their own
+directory and not mixed in with non-modulefiles (e.g. source code)
+
+
+
+
+The following have been reloaded with a version change:
+  1) SciPy-bundle/2019.10-fosscuda-2019b-Python-3.7.4 => SciPy-bundle/2019.10-foss-2019b-Python-3.7.4
+  2) scikit-learn/0.21.3-fosscuda-2019b-Python-3.7.4 => scikit-learn/0.21.3-foss-2019b-Python-3.7.4
+
+Lmod Warning: MODULEPATH directory: "/apps/eb/modules/all" has too many
+non-modulefiles (185). Please make sure that modulefiles are in their own
+directory and not mixed in with non-modulefiles (e.g. source code)
+
+
+
+Lmod Warning: MODULEPATH directory: "/apps/eb/modules/all" has too many
+non-modulefiles (185). Please make sure that modulefiles are in their own
+directory and not mixed in with non-modulefiles (e.g. source code)
+
+
+
+
+The following have been reloaded with a version change:
+  1) LibTIFF/4.0.10-GCCcore-8.3.0 => LibTIFF/4.1.0-GCCcore-8.3.0
+  2) Pillow/6.2.1-GCCcore-8.3.0 => Pillow/7.0.0-GCCcore-8.3.0-Python-3.7.4
+
+Lmod Warning: MODULEPATH directory: "/apps/eb/modules/all" has too many
+non-modulefiles (185). Please make sure that modulefiles are in their own
+directory and not mixed in with non-modulefiles (e.g. source code)
+
+
+
+
+The following have been reloaded with a version change:
+  1) LibTIFF/4.1.0-GCCcore-8.3.0 => LibTIFF/4.0.10-GCCcore-8.3.0
+
+Lmod Warning: MODULEPATH directory: "/apps/eb/modules/all" has too many
+non-modulefiles (185). Please make sure that modulefiles are in their own
+directory and not mixed in with non-modulefiles (e.g. source code)
+
+
+
+Lmod Warning: MODULEPATH directory: "/apps/eb/modules/all" has too many
+non-modulefiles (185). Please make sure that modulefiles are in their own
+directory and not mixed in with non-modulefiles (e.g. source code)
+
+
+
+
+The following have been reloaded with a version change:
+  1) HDF5/1.10.5-gompi-2019b => HDF5/1.10.5-gompic-2019b
+  2) SciPy-bundle/2019.10-foss-2019b-Python-3.7.4 => SciPy-bundle/2019.10-fosscuda-2019b-Python-3.7.4
+
+Lmod Warning: MODULEPATH directory: "/apps/eb/modules/all" has too many
+non-modulefiles (185). Please make sure that modulefiles are in their own
+directory and not mixed in with non-modulefiles (e.g. source code)
+
+
+
+Lmod Warning: MODULEPATH directory: "/apps/eb/modules/all" has too many
+non-modulefiles (185). Please make sure that modulefiles are in their own
+directory and not mixed in with non-modulefiles (e.g. source code)
+
+
+
+
+The following have been reloaded with a version change:
+  1) LibTIFF/4.0.10-GCCcore-8.3.0 => LibTIFF/4.1.0-GCCcore-8.3.0
+
+Lmod Warning: MODULEPATH directory: "/apps/eb/modules/all" has too many
+non-modulefiles (185). Please make sure that modulefiles are in their own
+directory and not mixed in with non-modulefiles (e.g. source code)
+
+
+
+
+The following have been reloaded with a version change:
+  1) LibTIFF/4.1.0-GCCcore-8.3.0 => LibTIFF/4.0.10-GCCcore-8.3.0
+  2) Pillow/7.0.0-GCCcore-8.3.0-Python-3.7.4 => Pillow/6.2.1-GCCcore-8.3.0
+  3) SciPy-bundle/2019.10-fosscuda-2019b-Python-3.7.4 => SciPy-bundle/2019.10-foss-2019b-Python-3.7.4
+  4) bokeh/1.4.0-fosscuda-2019b-Python-3.7.4 => bokeh/1.4.0-foss-2019b-Python-3.7.4
+  5) dask/2.8.0-fosscuda-2019b-Python-3.7.4 => dask/2.8.0-foss-2019b-Python-3.7.4
+
+/apps/eb/software/SciPy-bundle/2019.10-foss-2019b-Python-3.7.4/lib/python3.7/site-packages/numpy/lib/histograms.py:829: RuntimeWarning: invalid value encountered in greater_equal
+  keep = (tmp_a >= first_edge)
+/apps/eb/software/SciPy-bundle/2019.10-foss-2019b-Python-3.7.4/lib/python3.7/site-packages/numpy/lib/histograms.py:830: RuntimeWarning: invalid value encountered in less_equal
+  keep &= (tmp_a <= last_edge)
