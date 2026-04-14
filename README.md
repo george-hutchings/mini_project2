@@ -13,8 +13,7 @@ confounders from the features.
 This repository contains the code that accompanies my MSc mini-project
 **"Diffusion Models and Confounder Free Neural Networks"**
 (University of Oxford, supervised by Prof. Tom Nichols, Dr. Habib Ganjgahi and
-Prof. Chris Holmes). The write-up lives in a companion repository:
-[`mini-project-2-report-thesis-style`](https://github.com/george-hutchings/mini-project-2-report-thesis-style).
+Prof. Chris Holmes). The write-up lives in the pdf document in this repo.
 
 ## Method in one diagram
 
