@@ -1,0 +1,33 @@
+# Byte-compiled / optimized Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+*.swp
+*.swo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# SLURM job logs
+slurm.out
+slurm.err
+slurm-*.out
+slurm-*.err
+z-*.out
+z-*.err
+
+# Data artefacts (never commit raw scans or derived arrays)
+*.npy
+*.npz
+*.nii
+*.nii.gz
